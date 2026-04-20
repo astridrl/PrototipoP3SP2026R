@@ -5,8 +5,10 @@ Vista\frmProcesoAplicacionPerfil$1.class
 Vista\frmLogin$2.class
 Controlador\clsAsignacionAplicacionUsuario.class
 Vista\frmMantenimientoBitacora$3.class
+Vista\frmMantenimientoPeliculas2$4.class
 Vista\frmProcesoAplicacionPerfil.class
 Vista\MdiSeguridad$11.class
+Vista\frmMantenimientoPeliculas2$1.class
 Vista\frmProcesoPerfilUsuario$6.class
 Controlador\clsPerfil.class
 Vista\frmMantenimientoAplicaciones.class
@@ -27,6 +29,7 @@ Vista\frmMantenimientoBitacora$5.class
 Vista\frmMantenimientoAplicaciones$1.class
 Vista\frmMantenimientoPerfil.class
 Vista\frmMantenimientoPerfil$5.class
+Modelo\PeliculasDAO.class
 Vista\frmMantenimientoUsuario$9.class
 Vista\frmProcesoAplicacionUsuario$6.class
 Vista\frmProcesoPerfilUsuario$1.class
@@ -49,6 +52,7 @@ Vista\MdiSeguridad$12.class
 Modelo\BitacoraDAO.class
 Vista\frmMantenimientoPerfil$4.class
 Vista\frmMantenimientoUsuario$8.class
+Vista\frmMantenimientoPeliculas2$2.class
 Vista\frmProcesoPerfilUsuario$2.class
 Vista\frmMantenimientoAplicaciones$7.class
 Controlador\clsAplicaciones.class
@@ -58,6 +62,7 @@ Controlador\clsSeguridad.class
 Vista\frmProcesoAplicacionUsuario$4.class
 Vista\frmMantenimientoAplicaciones$6.class
 Vista\MdiSeguridad$9.class
+Controlador\clsPeliculas.class
 Vista\frmLogin$6.class
 Vista\frmMantenimientoAplicaciones$9.class
 Modelo\AplicacionesDAO.class
@@ -72,6 +77,7 @@ Vista\frmProcesoAplicacionPerfil$8.class
 Vista\frmMantenimientoPerfil$3.class
 Vista\frmMantenimientoUsuario$3.class
 Vista\frmMantenimientoPerfil$6.class
+Vista\frmMantenimientoPeliculas2$3.class
 Modelo\AsignacionAplicacionPerfilDAO.class
 Vista\frmProcesoAplicacionPerfil$2.class
 Vista\MdiSeguridad$10.class
@@ -97,6 +103,7 @@ Vista\frmLogin.class
 Vista\frmProcesoAplicacionPerfil$6.class
 Vista\frmRestablecerContraseña$4.class
 Vista\frmMantenimientoBitacora$1.class
+Vista\frmMantenimientoPeliculas2$6.class
 Vista\frmProcesoAplicacionUsuario$3.class
 Vista\frmMantenimientoUsuario$5.class
 Controlador\clsAsignacionPerfilUsuario.class
@@ -105,6 +112,8 @@ Vista\frmProcesoAplicacionUsuario$12.class
 Vista\frmProcesoPerfilUsuario$5.class
 Vista\MdiSeguridad$15.class
 Modelo\AsignacionAplicacionUsuarioDAO.class
+Vista\frmMantenimientoPeliculas2$5.class
+Vista\frmMantenimientoPeliculas2.class
 Vista\frmProcesoAplicacionPerfil$7.class
 Vista\frmLogin$3.class
 Controlador\clsBitacora.class
