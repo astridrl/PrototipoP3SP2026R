@@ -1,0 +1,32 @@
+commit 6e48ea9d8803c30d91c7f83e29c57af29fbb5af7
+Author: [Astrid Ruíz] <[astridruizz05@gmail.com]>
+Date:   Mon Apr 20 12:02:36 2026 -0600
+
+    Subiendo formulario
+
+commit 3ee351502a9bce63cc4fde6dd3fd19c971fb807d
+Merge: d84bcec 85db8c2
+Author: [Astrid Ruíz] <[astridruizz05@gmail.com]>
+Date:   Mon Apr 20 11:58:59 2026 -0600
+
+    Merge remote-tracking branch 'origin/ScriptsKevinLopez9959243309'
+
+commit d84bcecd79d36227a87f45122640603bcdf0e741
+Merge: 03f35f0 1c37fe6
+Author: [Astrid Ruíz] <[astridruizz05@gmail.com]>
+Date:   Mon Apr 20 11:51:59 2026 -0600
+
+    :wqMerge remote-tracking branch 'origin/objetodulce'
+     # the commit.
+
+commit 21a3d98c92c103b28de98edfa24d57fb4d45d45f
+Author: [Astrid Ruíz] <[astridruizz05@gmail.com]>
+Date:   Mon Apr 20 11:06:03 2026 -0600
+
+    Subiendo proyecto base
+
+commit bff94cac1176068c4bec757e9abbd5d270e909f1
+Author: astridrl <astridruizz05@gmail.com>
+Date:   Mon Apr 20 10:57:57 2026 -0600
+
+    Initial commit
